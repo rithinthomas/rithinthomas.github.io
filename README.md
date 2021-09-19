@@ -6,8 +6,8 @@
 ***
 
 *The lab had three parts :
-    *PART 1 : Repositry and Pages.
-    *PART 2 : Using Jekyll.
-    *PART 3 : Blogs and Posts.
+   # *PART 1 : Repositry and Pages.*
+   # *PART 2 : Using Jekyll.*
+   # *PART 3 : Blogs and Posts.*
     
 
