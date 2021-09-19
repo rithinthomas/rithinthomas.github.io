@@ -5,7 +5,9 @@
 #### DONE BY : *RITHIN THOMAS*      HW ID : *H00362856*
 ***
 
-The lab had three parts :
+*The lab had three parts :
     *PART 1 : Repositry and Pages.
+    *PART 2 : Using Jekyll.
+    *PART 3 : Blogs and Posts.
     
 
