@@ -6,10 +6,10 @@
 #### HW ID : *H00362856*
 ***
 
-*The lab had three parts :
-   ##### *PART 1 : Repositry and Pages.*
-   ##### *PART 2 : Using Jekyll.*
-   ##### *PART 3 : Blogs and Posts.*
+* The lab had three parts :
+   ##### * PART 1 : Repositry and Pages.*
+   ##### * PART 2 : Using Jekyll.*
+   ##### * PART 3 : Blogs and Posts.*
    
 The lab was informative and easy to get done with.
     
