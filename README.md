@@ -11,6 +11,6 @@
    ##### * PART 2 : Using Jekyll.*
    ##### * PART 3 : Blogs and Posts.*
    
-The lab was informative and easy to get done with.
+* The lab was informative and easy to get done with.
     
 
