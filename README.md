@@ -1,6 +1,6 @@
 #                   rithinthomas.github.io
 
-## ![Alt text](Unknown.jpg "Git Logo")
+## ![Alt text](https://github.com/rithinthomas/rithinthomas.github.io/blob/main/images/Unknown "Git Logo")
 
 ## COURSE : F28WP Web Programming
 
